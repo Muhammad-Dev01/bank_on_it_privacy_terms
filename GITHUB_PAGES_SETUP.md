@@ -65,7 +65,7 @@ https://YOUR_USERNAME.github.io/REPOSITORY_NAME/
 2. Update links in `index.html` and `terms.html` if needed
 
 3. Update the support email in both HTML files:
-   - Replace `support@bankonit.app` with your actual email
+   - Replace `Wyzemedialc@gmail.com` with your actual email
 
 4. Update the dates:
    - Replace `[Date]` with actual dates in both HTML files
