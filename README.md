@@ -20,3 +20,4 @@ This site is hosted on GitHub Pages. To update:
 - Privacy Policy: [View Online](https://yourusername.github.io/bank-on-it/)
 - App Store: [Coming Soon]
 
+
